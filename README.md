@@ -125,6 +125,4 @@ jupyter notebook signal_calculation.ipynb
 
 ## Author
 
-**R Shruthi Yadav** — Backend-focused Software Engineer  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rshruthiyadav-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/rshruthiyadav)
-[![LeetCode](https://img.shields.io/badge/LeetCode-shruthi__19-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/shruthi_19)
+**R Shruthi Yadav** 
